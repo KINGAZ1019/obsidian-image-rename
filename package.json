@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-image-rename",
+  "version": "1.0.0",
+  "description": "A research-oriented fork of Paste Image Rename: meaningful, note-aware image names before saving in Obsidian.",
+  "private": true,
+  "main": "main.js",
+  "license": "MIT",
+  "author": "KINGAZ1019",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KINGAZ1019/obsidian-image-rename.git"
+  },
+  "scripts": {
+    "build": "node build.cjs",
+    "test": "node --test tests/plugin.test.cjs",
+    "check": "node --check main.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

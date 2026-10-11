@@ -1,0 +1,10 @@
+{
+  "id": "research-image-rename",
+  "name": "Obsidian Image Rename",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.7",
+  "description": "A fork of Paste Image Rename: name pasted or dropped images before saving, use note-aware filenames, and insert matching embeds without overwriting attachments.",
+  "author": "KINGAZ1019",
+  "authorUrl": "https://github.com/KINGAZ1019",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,16 @@
+# Keep personal vault settings, credentials, and attachment data out of Git.
+node_modules/
+.obsidian/
+.stfolder/
+.stignore
+.stversions/
+.DS_Store
+Thumbs.db
+data.json
+.env
+.env.*
+*.log
+*.local
+*.sync-conflict-*
+coverage/
+*.zip
